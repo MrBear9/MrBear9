@@ -8,8 +8,6 @@
 
 ## About me
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 🤔 I’m looking for help with ...
@@ -22,3 +20,10 @@ Here are some ideas to get you started:
 
 - bear211201@gmail.com
 - https://github.com/MrBear9
+
+## My Cultivation
+
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=MrBear9)
+
+<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
+
