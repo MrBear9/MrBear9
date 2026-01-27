@@ -8,13 +8,11 @@
 
 ## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a project related to optical computing.
+- 🌱 I’m currently diving deep into the theory and applications of optical computing.
+- 🤔 I’m looking for help or collaboration on optical neural network architectures or optoelectronic co-computing systems.
+- 💬 Ask me about optical computing, AI, robotics (my undergraduate major), or high-altitude trekking adventures!
+- ⚡ Fun fact: I once summited Mount Sàwǔ (Sawu Peak)—at an elevation of 5,172 meters! 
 
 ## Contact me
 
@@ -23,7 +21,6 @@
 
 ## My Cultivation
 
-![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=MrBear9)
+<dive align="center">![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=MrBear9)</div>
 
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
-
