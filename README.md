@@ -1,6 +1,6 @@
 <h3 align="center">Hi here👋, I'm QingX ✨</h>
 <!--Line跑码线-->
-<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="16" width="100%">
+<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="24" width="100%">
 
 <h4 align="center">A passionate Robotics/AI+ researcher from China.</h4>
 
